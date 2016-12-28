@@ -9,7 +9,7 @@ This is a One-Shot Learning Handwritten Character Classifer written in Python us
 
 ## One-Shot Learning
 
-One-shot learning refers to the process of learn features from datasets containing few training samples. This is in contrast to some machine learning techniques like CNN which require large datasets in order to perform the learning task effectively.
+One-shot learning refers to the process of learning features from datasets containing few training samples. This is in contrast to some machine learning techniques like CNN which require large datasets in order to perform the learning task effectively.
 
 Humans have the ability to learn categories using very few examples and can match features and perform pattern recognition well despite of less data available. If I was to provide you a reference card of an unfamiliar alphabet and show you a series of hand written variants of that alphabet, chances are you'd be able to match a high percentage of this test set with the reference alphabet -- perhaps misclassifying a few exotic variations. The key motivation for the one-shot learning technique is that systems, like humans, can use prior knowledge about object categories to classify new objects.
 
