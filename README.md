@@ -28,12 +28,12 @@ Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 Step 1 - Run the code! It'll train against the handwritten character samples in the `all_runs` folder and then test it's classification ability.
 It should output an average error rate of around 38%.
 ```shell
-python demo_classification.py
+python one-shot-classification-demo.py
 ```
 
 ## Output
 
-```
+```shell
 One-shot classification demo with Modified Hausdorff Distance
  run 00 (error 45.0%)
  run 01 (error 35.0%)
